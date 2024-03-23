@@ -21,11 +21,11 @@ body
 
 #container 
 {
-    width: 110%;
-    padding: 11em;
+    width: 70%;
+    padding: 1em;
     text-align: center;
     border: 1px 0cm #ddd;
-    margin: 10px;
+    margin: 0px;
 
 }
 #container h1
